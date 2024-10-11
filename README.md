@@ -1,3 +1,4 @@
+<!--soc-->
 [English](https://github.com/CaaMoe/MultiLogin/blob/v6/README.en.md)
 <div align="center">
 
